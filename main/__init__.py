@@ -16,7 +16,7 @@ API_ID = config("34734487", default=None, cast=int)
 API_HASH = config("648191684a5c39cbc2827ea0d82bc382", default=None)
 BOT_TOKEN = config("BOT_TOKEN", default=None)
 SESSION = config("SESSION", default=None)
-FORCESUB = config("FORCESUB", default=None)
+FORCESUB = config("CoursexwallaH", default=None)
 AUTH = config("AUTH", default=None, cast=int)
 
 # Validate required environment variables
